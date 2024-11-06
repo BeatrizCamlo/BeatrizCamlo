@@ -1,7 +1,11 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Hello, Folks.
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+👧🏽 I am Beatriz Camilo, IT student at the University Of Rio Grande do Norte, Brazil, and here is my repositories where I store studies codes and class projects.
+
+📚 Studying POO in Java and its most used framework Spring and, in parallel, increase security systems knowledge, that I intend to pursue as a career.
+
+📖 Reading Clean Code- Robert C. MartinRobert C. Martin | The Pragmatic Programmer - Andrew Hunt, David Thomas | Computer Networks - Andrew Stuart Tanenbaum | Estruturas de Dados: Algoritmos, Análise da Complexidade e Implementações em Java e C C++ - Ana Fernanda Gomes Ascencio.
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bea-Java" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -15,7 +19,6 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
  
 <div> 
   <a href="https://instagram.com/beatriz.cmlo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/bea_cm" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:abeatrizcamilo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/beatriz-camilo-b0683b253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
