@@ -4,7 +4,7 @@
 
 📚 Studying POO in Java and its most used framework Spring and, in parallel, increase security systems knowledge, that I intend to pursue as a career.
 
-📖 Reading Clean Code- Robert C. MartinRobert C. Martin | The Pragmatic Programmer - Andrew Hunt, David Thomas | Computer Networks - Andrew Stuart Tanenbaum | Estruturas de Dados: Algoritmos, Análise da Complexidade e Implementações em Java e C C++ - Ana Fernanda Gomes Ascencio.
+📖 Reading Clean Code- Robert C. MartinRobert C. Martin | The Pragmatic Programmer - Andrew Hunt, David Thomas | Computer Networks - Andrew Stuart Tanenbaum | Estruturas de Dados: Algoritmos, Análise da Complexidade e Implementações em Java e C/C++ - Ana Fernanda Gomes Ascencio.
 
 
 <div style="display: inline_block"><br>
