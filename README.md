@@ -2,7 +2,7 @@
 
 👧🏽 I am Beatriz Camilo, IT student at the University Of Rio Grande do Norte, Brazil, and here is my repositories where I store studies codes and class projects.
 
-📚 Studying POO in Java and its most used framework Spring and, in parallel, increase security systems knowledge, that I intend to pursue as a career.
+📚 Studying OOP in Java and its most used framework Spring and, in parallel, increase security systems knowledge, that I intend to pursue as a career.
 
 📖 Reading Clean Code- Robert C. MartinRobert C. Martin | The Pragmatic Programmer - Andrew Hunt, David Thomas | Computer Networks - Andrew Stuart Tanenbaum | Estruturas de Dados: Algoritmos, Análise da Complexidade e Implementações em Java e C/C++ - Ana Fernanda Gomes Ascencio.
 
