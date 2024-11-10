@@ -24,5 +24,7 @@
   
 </div>
 
+-----------------------------------------------MY CONTRIBUTIONS ----------------------------------------------------
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeatrizCamlo&theme=midnight-purplek&show_icons=true)
 
