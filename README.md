@@ -1,10 +1,6 @@
 
 ## Hello, Folks! 👋
 
-
-![Bem-vindo GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
-
-
 👧🏽 I am Beatriz Camilo, IT student at the University Of Rio Grande do Norte, Brazil, and here are my repositories where I store study codes and class projects.
 
 📚 Currently studying OOP in Java and exploring the Spring framework. In parallel, I'm increasing my knowledge of security systems, which I intend to pursue as a career.
