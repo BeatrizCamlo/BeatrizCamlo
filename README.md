@@ -24,3 +24,5 @@
   
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Beatriz-Camlo=anuraghazra&theme=midnight-purplek&show_icons=true)
+
