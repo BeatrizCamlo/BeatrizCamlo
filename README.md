@@ -24,4 +24,3 @@
   
 </div>
 
-![snake gif](https://github.com/Beatriz-Camlo/Beatriz-Camlo/blob/output/.svg)
