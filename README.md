@@ -1,8 +1,8 @@
 
 ## Hello, Folks! 👋
 
-![GIF de Animação](https://media.giphy.com/media/3o7qE4tPQEKyk8YmnK/giphy.gif)
-
+<div style="background-image: url('[https://link-para-seu-gif.com](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWpkcng2cmN1NXpwOWZvcmx2d2EwNXJ1MnFjYWR1dmprODFubXB6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XT4205fT6oHc8BFwqh/giphy.gif)'); height: 500px; background-size: cover; background-repeat: no-repeat;"> <h1 style="color: white; text-align: center; padding: 100px;">T
+</div>
 
 👧🏽 I am Beatriz Camilo, IT student at the University Of Rio Grande do Norte, Brazil, and here are my repositories where I store study codes and class projects.
 
