@@ -26,6 +26,8 @@
 
 -----------------------------------------------MY CONTRIBUTIONS ----------------------------------------------
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizCamlo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=BeatrizCamlo&theme=tokyo-night&hide_border=true)](https://git.io/streak-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BeatrizCamlo&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
