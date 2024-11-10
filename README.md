@@ -4,8 +4,6 @@
 # Meu Projeto
 
 
-![Fungo GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWpkcng2cmN1NXpwOWZvcmx2d2EwNXJ1MnFjYWR1dmprODFubXB6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XT4205fT6oHc8BFwqh/giphy.gif)
-
 👧🏽 I am Beatriz Camilo, IT student at the University Of Rio Grande do Norte, Brazil, and here are my repositories where I store study codes and class projects.
 
 📚 Currently studying OOP in Java and exploring the Spring framework. In parallel, I'm increasing my knowledge of security systems, which I intend to pursue as a career.
