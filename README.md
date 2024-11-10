@@ -1,7 +1,8 @@
 
 ## Hello, Folks! 👋
 
-![Códigos em Movimento](https://media.giphy.com/media/9J7p8bgAN3swI/giphy.gif)
+![Programador Codificando](https://media.giphy.com/media/l2JhuhnD5JKCldxxu/giphy.gif)
+
 
 
 👧🏽 I am Beatriz Camilo, IT student at the University Of Rio Grande do Norte, Brazil, and here are my repositories where I store study codes and class projects.
