@@ -3,11 +3,8 @@
 
 # Meu Projeto
 
-![Fundo GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWpkcng2cmN1NXpwOWZvcmx2d2EwNXJ1MnFjYWR1dmprODFubXB6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XT4205fT6oHc8BFwqh/giphy.gif)
 
-Aqui está um exemplo de como adicionar um GIF de fundo no conteúdo.
-
-
+![Fungo GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWpkcng2cmN1NXpwOWZvcmx2d2EwNXJ1MnFjYWR1dmprODFubXB6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XT4205fT6oHc8BFwqh/giphy.gif)
 
 👧🏽 I am Beatriz Camilo, IT student at the University Of Rio Grande do Norte, Brazil, and here are my repositories where I store study codes and class projects.
 
