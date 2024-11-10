@@ -1,7 +1,8 @@
 
 ## Hello, Folks! 👋
 
-# Meu Projeto
+
+![Bem-vindo GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
 
 
 👧🏽 I am Beatriz Camilo, IT student at the University Of Rio Grande do Norte, Brazil, and here are my repositories where I store study codes and class projects.
