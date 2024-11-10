@@ -26,5 +26,6 @@
 
 -----------------------------------------------MY CONTRIBUTIONS ----------------------------------------------
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeatrizCamloio&theme=omnik&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeatrizCamlo&theme=midnight-purple&show_icons=true)
+
 
