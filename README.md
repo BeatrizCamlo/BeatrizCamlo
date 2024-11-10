@@ -1,3 +1,4 @@
+
 ## Hello, Folks! 👋
 
 👧🏽 I am Beatriz Camilo, IT student at the University Of Rio Grande do Norte, Brazil, and here are my repositories where I store study codes and class projects.
