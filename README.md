@@ -4,6 +4,9 @@
 
 📚 Currently studying OOP in Java and exploring the Spring framework. In parallel, I'm increasing my knowledge of security systems, which I intend to pursue as a career.
 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeatrizCamlo&theme=midnight-purple&show_icons=true)
+
+
 📖 **Reading**: 
 - *Clean Code* - Robert C. Martin
 - *The Pragmatic Programmer* - Andrew Hunt, David Thomas
@@ -20,6 +23,7 @@
   <img align="center" alt="Bea-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bea-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizCamlo&layout=compact&theme=radical)
 
 ---
@@ -36,8 +40,6 @@
 ## 📊 My Contributions
 
 <div align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizCamlo&layout=compact&theme=radical)
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=BeatrizCamlo&theme=tokyo-night&hide_border=true)](https://git.io/streak-stats)
 
