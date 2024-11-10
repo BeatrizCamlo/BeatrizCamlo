@@ -24,4 +24,4 @@
   
 </div>
 
-![Snake animation](https://github.com/BeatrizCamlo/BeatrizCamlo/blob/main/.github/workflows/cobra.yml)
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
