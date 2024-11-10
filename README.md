@@ -6,6 +6,7 @@
 📚 Currently studying OOP in Java and exploring the Spring framework. In parallel, I'm increasing my knowledge of security systems, which I intend to pursue as a career.
 
 <div align="center">
+  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeatrizCamlo&theme=midnight-purple&show_icons=true)
 </div>
 
