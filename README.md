@@ -1,7 +1,7 @@
 
 ## Hello, Folks! 👋
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=SeuUsuario&theme=radical&show_icons=true)
+![Animação de código em execução](https://media.giphy.com/media/3o7qE4tPQEKyk8YmnK/giphy.gif)
 
 👧🏽 I am Beatriz Camilo, IT student at the University Of Rio Grande do Norte, Brazil, and here are my repositories where I store study codes and class projects.
 
