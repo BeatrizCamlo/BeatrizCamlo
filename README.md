@@ -3,7 +3,7 @@
 
 👧🏽 I am Beatriz Camilo, IT student at the University Of Rio Grande do Norte, Brazil, and here are my repositories where I store study codes and class projects.
 
-📚 Currently studying OOP in Java and exploring the Spring framework. In parallel, I'm increasing my knowledge of security systems, which I intend to pursue as a career.
+📚 Currently studying OOP in Java and exploring the Spring framework. In parallel, I'm increasing my knowledge of security systems.
 
 <div align="center">
   
