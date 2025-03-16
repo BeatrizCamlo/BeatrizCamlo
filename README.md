@@ -1,5 +1,5 @@
 
-## Hello, Folks! 👋
+## Olá! 👋
 
 👧🏽 Sou Ana Beatriz Camilo da Costa, estudante de bacharelado em Tecnologia da Informação pela Univerdade Federal do Rio Grande do Norte, e este é meu repositório de estudos e projetos acadêmicos.
 
