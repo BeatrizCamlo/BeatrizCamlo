@@ -1,7 +1,7 @@
 
 ## Olá! 👋
 
-👧🏽 Sou Ana Beatriz Camilo da Costa, estudante de bacharelado em Tecnologia da Informação pela Univerdade Federal do Rio Grande do Norte, e este é meu repositório de estudos e projetos acadêmicos.
+👧🏽 Sou Ana Beatriz Camilo da Costa, estudante de bacharelado em Tecnologia da Informação pela Univerdade Federal do Rio Grande do Norte e dedicada ao desenvolvimento Fullstack.
 
 📚 Me aplico a área de Desenvolvimento de Softaware aplicado a Web em Java usando Sprig Boot consumindo API REST, integração com banco de dados MySQL. E para construção de telas usando os princípios UI/UX: JavaScript, CSS e HTML. 
 
