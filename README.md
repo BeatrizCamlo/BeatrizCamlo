@@ -1,16 +1,16 @@
 
 ## Hello, Folks! 👋
 
-👧🏽 I am Beatriz Camilo, IT student at the University Of Rio Grande do Norte, Brazil, and here are my repositories where I store study codes and class projects.
+👧🏽 Sou Ana Beatriz Camilo da Costa, estudante de bacharelado em Tecnologia da Informação pela Univerdade Federal do Rio Grande do Norte, e este é meu repositório de estudos e projetos acadêmicos.
 
-📚 Currently studying OOP in Java and exploring the Spring framework and Angular Framework for Front-end applications.
+📚 Me aplico a área de Desenvolvimento de Softaware aplicado a Web em Java usando Sprig Boot consumindo API REST, integração com banco de dados MySQL. E para construção de telas usando os princípios UI/UX: JavaScript, CSS e HTML. 
 
 <div align="center">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeatrizCamlo&theme=midnight-purple&show_icons=true)
 </div>
 
-📖 **Reading**: 
+📖 **Leituras**: 
 - *Clean Code* - Robert C. Martin
 - *The Pragmatic Programmer* - Andrew Hunt, David Thomas
 - *Computer Networks* - Andrew Stuart Tanenbaum
@@ -18,7 +18,7 @@
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠️ Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Bea-Java" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -35,7 +35,7 @@
 
 ---
 
-## 📊 My Contributions
+## 📊 Minhas Contriubuições
 
 <div align="center">
 
@@ -46,11 +46,12 @@
 
 ---
 
-### 🌐 Let's Connect
+### 🌐 Vamos Conectar
 <div> 
   <a href="https://instagram.com/beatriz.cmlo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:abeatrizcamilo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/beatriz-camilo-b0683b253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
 
 ---
