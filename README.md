@@ -15,6 +15,8 @@
 - *The Pragmatic Programmer* - Andrew Hunt, David Thomas
 - *Computer Networks* - Andrew Stuart Tanenbaum
 - *Estruturas de Dados: Algoritmos, Análise da Complexidade e Implementações em Java e C/C++* - Ana Fernanda Gomes Ascencio.
+- *Princípios de análise e projetps de sistemas com UML* - Eduardo Bezerra.
+- *Metodologias Ágeis para Desenvolvimento de Software* - Rafael Prikladnicki, Renato Willi, Fabiano Milani.
 
 ---
 
