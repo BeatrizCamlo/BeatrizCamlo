@@ -3,7 +3,7 @@
 
 👧🏽 Sou Ana Beatriz Camilo da Costa, estudante de bacharelado em Tecnologia da Informação pela Univerdade Federal do Rio Grande do Norte e dedicada ao desenvolvimento Fullstack.
 
-📚 Me aplico a área de Desenvolvimento de Software aplicado a Web usando Java SpringBoot a fim de criar API RESTs com integração ao banco de dados MySQL, H2, PostgreSQL. E para construção de telas usando os princípios UI/UX: JavaScript, CSS e HTML. 
+📚 Me aplico à área de Desenvolvimento de Sistemas Web usando Java SpringBoot a fim de criar API RESTs com integração ao banco de dados MySQL, H2, PostgreSQL e para construção de telas usando os princípios UI/UX: JavaScript, CSS e HTML. 
 
 <div align="center">
   
