@@ -65,12 +65,12 @@
 
 ---
 
-## 📊 Minhas Contribuições (Gamificação)
 
+## 📊 Minhas Contribuições
 <div align="center">
-    [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BeatrizCamlo&theme=tokyo-night)](https://github.com/BeatrizCamlo)
-    
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BeatrizCamlo&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D">
+    [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BeatrizCamlo&theme=tokyo-night)](https://github.com/BeatrizCamlo)
+  
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BeatrizCamlo&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D">
 </div>
 
 ---
@@ -81,14 +81,8 @@
 > Não hesite em entrar em contato.
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/beatriz-camilo-b0683b253/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
   <a href="https://instagram.com/beatriz.cmlo" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href = "mailto:abeatrizcamilo@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
 
