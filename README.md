@@ -66,11 +66,13 @@
 ---
 
 
-## 📊 Minhas Contribuições
+
+## 📊 Minhas Contribuições (Gamificação)
+
 <div align="center">
-    [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BeatrizCamlo&theme=tokyo-night)](https://github.com/BeatrizCamlo)
-  
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BeatrizCamlo&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D">
+    [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BeatrizCamlo&theme=tokyo-night)](https://github.com/BeatrizCamlo)
+    
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BeatrizCamlo&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D">
 </div>
 
 ---
