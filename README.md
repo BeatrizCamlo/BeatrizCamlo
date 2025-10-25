@@ -66,8 +66,7 @@
 ---
 
 
-## 📊 Minhas Contribuições (Gamificação)
-
+## 📊 Minhas Contribuições
 <div align="center">
     [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BeatrizCamlo&theme=tokyo-night)](https://github.com/BeatrizCamlo)
   
@@ -76,7 +75,7 @@
 
 ---
 
-### 🌐 Vamos Conectar! (Call to Action)
+### 🌐 Vamos Conectar! 
 
 > Gostaria de colaborar, trocar ideias sobre tecnologia ou tem uma oportunidade? 
 > Não hesite em entrar em contato.
