@@ -65,12 +65,13 @@
 
 ---
 
+
 ## 📊 Minhas Contribuições (Gamificação)
 
 <div align="center">
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BeatrizCamlo&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BeatrizCamlo&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D">
+    [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BeatrizCamlo&theme=tokyo-night)](https://github.com/BeatrizCamlo)
+  
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BeatrizCamlo&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D">
 </div>
 
 ---
