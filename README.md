@@ -62,7 +62,6 @@
 * [**Projeto Tabela de Funcionários - CRUD**](https://github.com/BeatrizCamlo/Tabela-de-Funcion-rios---CRUD.git)
 * [**Projeto Desenvolvimento Clone do site OH.STUDIO**](https://github.com/BeatrizCamlo/DSW-I---AV1.git)
 
-> ⭐ **Dica:** Se possível, adicione um GIF ou uma imagem demonstrando o funcionamento do *Projeto BattleShip* para um impacto visual imediato!
 
 ---
 
