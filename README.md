@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Bem-vindo(a) ao meu Perfil GitHub!</h1>
+<h1 align="center">Olá!
 
 <p align="center">
     <a href="https://github.com/BeatrizCamlo?tab=followers"><img src="https://img.shields.io/github/followers/BeatrizCamlo?style=social"></a>
