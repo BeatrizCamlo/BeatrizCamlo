@@ -58,7 +58,7 @@
 ### Projetos Destacáveis
 
 * [**Projeto Ipê**](https://github.com/Marcela-SB/Projeto_Ipe.git)
-* [**Projeto BattleShip**](https://github.com/BeatrizCamlo/Projeto-Batalha-Naval.git)
+* 
 * [**Projeto Tabela de Funcionários - CRUD**](https://github.com/BeatrizCamlo/Tabela-de-Funcion-rios---CRUD.git)
 * [**Projeto Desenvolvimento Clone do site OH.STUDIO**](https://github.com/BeatrizCamlo/DSW-I---AV1.git)
 
