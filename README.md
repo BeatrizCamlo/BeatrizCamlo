@@ -44,7 +44,7 @@
 
 ---
 
-### 📖 Leituras Inspiradoras
+### 📖 Leituras
 
 * *Clean Code* - Robert C. Martin
 * *The Pragmatic Programmer* - Andrew Hunt, David Thomas
