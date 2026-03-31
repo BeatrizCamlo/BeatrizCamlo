@@ -1,18 +1,12 @@
-<p align="center">
-    <a href="https://github.com/BeatrizCamlo?tab=followers"><img src="https://img.shields.io/github/followers/BeatrizCamlo?style=social"></a>
-    <img src="https://hits.seobirb.com/y/BeatrizCamlo.svg?count_bg=%237CD26C&title_bg=%23181717&icon=github&icon_color=%23FFFFFF&title=VISITAS&edge_flat=false&style=flat">
-</p>
-
----
 
 <p align="center">
-    👧🏽 Sou <strong>Ana Beatriz Camilo da Costa</strong>, estudante de bacharelado em 
+    Sou <strong>Ana Beatriz Camilo da Costa</strong>, estudante de bacharelado em 
     Tecnologia da Informação pela Universidade Federal do Rio Grande do Norte (UFRN) 
     e dedicada ao desenvolvimento Fullstack.
 </p>
 
 <p align="center">
-    📚 Minha aplicação principal é na área de <strong>Desenvolvimento de Sistemas Web</strong>, 
+    Minha aplicação principal é na área de <strong>Desenvolvimento de Sistemas Web</strong>, 
     focada no Backend com <strong>Java SpringBoot</strong> para criar API RESTs e na integração com 
     bancos de dados (MySQL, H2 e PostgreSQL). No Frontend, me dedico à construção de telas 
     usando os princípios UI/UX com: <strong>JavaScript</strong>, <strong>CSS</strong> e <strong>HTML</strong>.
@@ -44,9 +38,6 @@
 
 ### 🌐 Vamos Conectar! (Call to Action)
 
-> Gostaria de colaborar, trocar ideias sobre tecnologia ou tem uma oportunidade? 
-> Não hesite em entrar em contato.
-> 
 <div align="left">
 <a href="https://www.linkedin.com/in/beatriz-camilo-b0683b253/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
