@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-    <strong>Estudante de BTI na UFRN | Desenvolvedora Fullstack | Apaixonada por Soluções Web</strong>
+    <strong>Estudante de BTI na UFRN | Desenvolvedora Fullstack | Web</strong>
   </p>
 
   <p align="center">
