@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-    <strong>Estudante de BTI na UFRN | Desenvolvedora Fullstack | Web</strong>
+    <strong>Bacharelanda em Tecnologia da Informação na UFRN | Desenvolvedora Fullstack | </strong>
   </p>
 
   <p align="center">
@@ -18,13 +18,13 @@
 
 ---
 
-### 🚀 Sobre Mim
+### Sobre Mim
 
 Sou graduanda em **Tecnologia da Informação pela UFRN**, com foco sólido no desenvolvimento de sistemas robustos e escaláveis. Minha jornada une a precisão do **Backend em Java** com a dinamicidade do **Frontend moderno em React**.
 
-* 🌍 Atualmente focado em: **Aprimorar arquiteturas SPA e Microserviços.**
-* 🌱 Em constante aprendizado sobre: **Design Patterns, Clean Code e Performance Web.**
-* 💬 Peça-me ajuda sobre: **Estruturação de APIs REST e Componentização.**
+*  Atualmente focado em: **Aprimorar arquiteturas SPA e Microserviços.**
+*  Em constante aprendizado sobre: **Design Patterns, Clean Code e Performance Web.**
+*  Peça-me ajuda sobre: **Estruturação de APIs REST e Componentização.**
 
 ---
 
@@ -46,15 +46,6 @@ Sou graduanda em **Tecnologia da Informação pela UFRN**, com foco sólido no d
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
-
----
-
-### 📊 Estatísticas e Atividade
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizCamlo&layout=compact&theme=radical&hide_border=true&langs_count=6" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BeatrizCamlo&show_icons=true&theme=radical&hide_border=true" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeatrizCamlo&theme=radical&hide_border=true" alt="GitHub Streak" />
