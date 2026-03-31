@@ -1,5 +1,3 @@
-<h1 align="center">Olá!</h1>
-
 <p align="center">
     <a href="https://github.com/BeatrizCamlo?tab=followers"><img src="https://img.shields.io/github/followers/BeatrizCamlo?style=social"></a>
     <img src="https://hits.seobirb.com/y/BeatrizCamlo.svg?count_bg=%237CD26C&title_bg=%23181717&icon=github&icon_color=%23FFFFFF&title=VISITAS&edge_flat=false&style=flat">
@@ -44,33 +42,6 @@
 
 ---
 
-### 📖 Leituras
-
-* *Clean Code* - Robert C. Martin
-* *The Pragmatic Programmer* - Andrew Hunt, David Thomas
-* *Computer Networks* - Andrew Stuart Tanenbaum
-* *Estruturas de Dados: Algoritmos, Análise da Complexidade e Implementações em Java e C/C++* - Ana Fernanda Gomes Ascencio.
-* *Princípios de análise e projetos de sistemas com UML* - Eduardo Bezerra.
-* *Metodologias Ágeis para Desenvolvimento de Software* - Rafael Prikladnicki, Renato Willi, Fabiano Milani.
-
----
-
-### Projetos Destacáveis
-
-* [**Projeto Ipê**](https://github.com/Marcela-SB/Projeto_Ipe.git)
-* [**Projeto Aquário Natal**](https://github.com/SebastiaoFellipe/Projeto-Web-II)
-* [**Projeto Desenvolvimento Clone do site OH.STUDIO**](https://github.com/BeatrizCamlo/DSW-I---AV1.git)
-
-
----
-
-
-## 📊 Minhas Contribuições
-<div align="center">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BeatrizCamlo&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D">
-</div>
-
----
 ### 🌐 Vamos Conectar! (Call to Action)
 
 > Gostaria de colaborar, trocar ideias sobre tecnologia ou tem uma oportunidade? 
