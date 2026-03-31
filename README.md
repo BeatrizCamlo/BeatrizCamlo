@@ -46,7 +46,3 @@ Sou graduanda em **Tecnologia da Informação pela UFRN**, com foco sólido no d
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeatrizCamlo&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
