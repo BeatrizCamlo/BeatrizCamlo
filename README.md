@@ -12,10 +12,6 @@
     usando os princípios UI/UX com: <strong>JavaScript</strong>, <strong>CSS</strong> e <strong>HTML</strong>.
 </p>
 
-<div align="center">
-  <img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=BeatrizCamlo&theme=midnight-purple&show_icons=true&hide_border=true">
-</div>
-
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
