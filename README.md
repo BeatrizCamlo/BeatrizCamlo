@@ -12,8 +12,6 @@
     usando os princípios UI/UX com: <strong>JavaScript</strong>, <strong>CSS</strong> e <strong>HTML</strong>.
 </p>
 
----
-
 ### 🛠️ Tecnologias e Ferramentas
 
 <div align="left" style="display: inline_block">
@@ -29,10 +27,6 @@
 <div align="center">
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizCamlo&layout=compact&theme=radical&hide_border=true">
 </div>
-
----
-
-### 🌐 Vamos Conectar! (Call to Action)
 
 <div align="left">
 <a href="https://www.linkedin.com/in/beatriz-camilo-b0683b253/" target="_blank">
