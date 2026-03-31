@@ -1,41 +1,61 @@
-
-<p align="center">
-    Sou <strong>Ana Beatriz Camilo da Costa</strong>, estudante de bacharelado em 
-    Tecnologia da Informação pela Universidade Federal do Rio Grande do Norte (UFRN) 
-    e dedicada ao desenvolvimento Fullstack.
-</p>
-
-<p align="center">
-    Minha aplicação principal é na área de <strong>Desenvolvimento de Sistemas Web</strong>, 
-    focada no Backend com <strong>Java SpringBoot</strong> para criar API RESTs e na integração com 
-    bancos de dados (MySQL, H2 e PostgreSQL). No Frontend, me dedico à construção de telas 
-    usando os princípios UI/UX com: <strong>JavaScript</strong>, <strong>CSS</strong> e <strong>HTML</strong>.
-</p>
-
-### 🛠️ Tecnologias e Ferramentas
-
-<div align="left" style="display: inline_block">
-  <img align="center" alt="Bea-Java" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img align="center" alt="Bea-Spring" height="30" width="40" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img align="center" alt="Bea-Js" height="30" width="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Bea-HTML" height="30" width="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Bea-CSS" height="30" width="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Bea-SQL" height="30" width="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="Bea-PostgreSQL" height="30" width="40" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-</div><br>
-
 <div align="center">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizCamlo&layout=compact&theme=radical&hide_border=true">
+  <p align="center">
+    <strong>Estudante de BTI na UFRN | Desenvolvedora Fullstack | Apaixonada por Soluções Web</strong>
+  </p>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/beatriz-camilo-b0683b253/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:abeatrizcamilo@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://instagram.com/beatriz.cmlo">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+  </p>
 </div>
 
-<div align="left">
-<a href="https://www.linkedin.com/in/beatriz-camilo-b0683b253/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
-<a href="https://instagram.com/beatriz.cmlo" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-</a>
-<a href = "mailto:abeatrizcamilo@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</a>
+---
+
+### 🚀 Sobre Mim
+
+Sou graduanda em **Tecnologia da Informação pela UFRN**, com foco sólido no desenvolvimento de sistemas robustos e escaláveis. Minha jornada une a precisão do **Backend em Java** com a dinamicidade do **Frontend moderno em React**.
+
+* 🌍 Atualmente focado em: **Aprimorar arquiteturas SPA e Microserviços.**
+* 🌱 Em constante aprendizado sobre: **Design Patterns, Clean Code e Performance Web.**
+* 💬 Peça-me ajuda sobre: **Estruturação de APIs REST e Componentização.**
+
+---
+
+### 🛠️ Tech Stack
+
+#### **Frontend (Modern UI/UX)**
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled">
+</p>
+
+#### **Backend & Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</p>
+
+---
+
+### 📊 Estatísticas e Atividade
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizCamlo&layout=compact&theme=radical&hide_border=true&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BeatrizCamlo&show_icons=true&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeatrizCamlo&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
