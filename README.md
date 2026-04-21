@@ -24,7 +24,7 @@ Sou graduanda em **Tecnologia da Informação pela UFRN**, com foco sólido no d
 
 *  Atualmente focado em: **Aprimorar arquiteturas SPA e Microserviços.**
 *  Em constante aprendizado sobre: **Design Patterns, Clean Code e Performance Web.**
-*  Peça-me ajuda sobre: **Estruturação de APIs REST e Componentização.**
+*  Técnicas usadas: **Estruturação de APIs REST e Componentização.**
 
 ---
 
