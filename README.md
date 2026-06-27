@@ -20,7 +20,7 @@
 
 ### Sobre Mim
 
-Sou graduanda em **Tecnologia da Informação pela UFRN**, com foco sólido no desenvolvimento de sistemas robustos e escaláveis. Minha jornada une a precisão do **Backend em Java** com a dinamicidade do **Frontend moderno em React**.
+Meu nome é Ana Beatriz Camilo, sou graduanda em **Tecnologia da Informação pela UFRN**, com foco sólido no desenvolvimento de sistemas robustos e escaláveis. Minha jornada une a precisão do **Backend em Java** com a dinamicidade do **Frontend moderno em React**.
 
 *  Atualmente focado em: **Aprimorar arquiteturas SPA e Microserviços.**
 *  Em constante aprendizado sobre: **Design Patterns, Clean Code e Performance Web.**
