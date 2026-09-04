@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-    <strong>Bacharelanda em Tecnologia da Informação na UFRN | Desenvolvedora Fullstack | </strong>
+    <strong> FullStack Developer | Java Spring | React + TypeScript </strong>
   </p>
 
   <p align="center">
