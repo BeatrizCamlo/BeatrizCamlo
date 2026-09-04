@@ -20,17 +20,17 @@
 
 ### Sobre Mim
 
-Meu nome é Ana Beatriz Camilo, sou graduanda em **Tecnologia da Informação pela UFRN**, com foco sólido no desenvolvimento de sistemas robustos e escaláveis. Minha jornada une a precisão do **Backend em Java** com a dinamicidade do **Frontend moderno em React**.
+Meu nome é Ana Beatriz Camilo, sou graduanda em **Tecnologia da Informação pela UFRN**, com foco em desenvolvimento de sistemas robustos e escaláveis. Experiência com ecossistemas Spring e Django para construção de APIs Rest e React + TypeScript para criação de interfaces.
 
-*  Atualmente focado em: **Aprimorar arquiteturas SPA e Microserviços.**
-*  Em constante aprendizado sobre: **Design Patterns, Clean Code e Performance Web.**
-*  Técnicas usadas: **Estruturação de APIs REST e Componentização.**
+*  Atualmente focado em: **Event driven architecture e Microserviços.**
+*  Em constante aprendizado sobre: **Design Patterns, SOLID e Sistemas Distribuídos.**
+*  Técnicas usadas: **Modularização e Coesão do Código**
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### **Frontend (Modern UI/UX)**
+#### **Frontend**
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS">
