@@ -22,7 +22,7 @@
 
 Meu nome é Ana Beatriz Camilo, sou graduanda em **Tecnologia da Informação pela UFRN**, com foco em desenvolvimento de sistemas robustos e escaláveis. Experiência com ecossistemas Spring e Django para construção de APIs Rest e React + TypeScript para criação de interfaces.
 
-*  Atualmente focado em: **Event driven architecture e Microserviços.**
+*  Atualmente focado em: **Event Driven Architecture e Microserviços.**
 *  Em constante aprendizado sobre: **Design Patterns, SOLID e Sistemas Distribuídos.**
 *  Técnicas usadas: **Modularização e Coesão do Código**
 
